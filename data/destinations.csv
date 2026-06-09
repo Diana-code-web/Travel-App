@@ -1,0 +1,46 @@
+destination,country,type,avg_cost_usd,best_season,rating,activities,currency_code
+New York,USA,Culture,250,April-June,4.8,"Culture,Photography,Adventure,Shopping",USD
+Paris,France,Culture,200,April-June,4.9,"Culture,Photography,Adventure,Shopping",EUR
+London,UK,Culture,220,May-September,4.8,"Culture,Photography,Adventure,Shopping",GBP
+Tokyo,Japan,Culture,180,March-May,4.9,"Culture,Photography,Adventure,Food",JPY
+Dubai,UAE,Culture,300,November-March,4.7,"Culture,Adventure,Beach,Shopping",AED
+Bali,Indonesia,Beach,80,April-October,4.8,"Beach,Culture,Swimming,Hiking,Adventure",IDR
+Bangkok,Thailand,Culture,60,November-March,4.7,"Culture,Food,Adventure,Shopping",THB
+Sydney,Australia,Beach,220,December-February,4.7,"Beach,Culture,Adventure,Hiking",AUD
+Cape Town,South Africa,Culture,120,November-March,4.8,"Culture,Beach,Hiking,Adventure,Wildlife",ZAR
+Nairobi,Kenya,Wildlife,100,July-October,4.6,"Safari,Wildlife,Photography,Culture",KES
+Maasai Mara,Kenya,Wildlife,150,July-October,4.9,"Safari,Wildlife,Photography",KES
+Serengeti,Tanzania,Wildlife,200,July-September,4.9,"Safari,Wildlife,Photography",TZS
+Zanzibar,Tanzania,Beach,120,June-October,4.8,"Swimming,Snorkeling,Beach,Culture",TZS
+Victoria Falls,Zimbabwe,Adventure,180,February-May,4.9,"Adventure,Hiking,Photography",USD
+Maldives,Maldives,Beach,400,November-April,4.9,"Beach,Swimming,Snorkeling,Diving",USD
+Barcelona,Spain,Culture,160,May-September,4.8,"Culture,Beach,Photography,Food",EUR
+Rome,Italy,Culture,170,April-June,4.8,"Culture,Photography,Food,Adventure",EUR
+Amsterdam,Netherlands,Culture,180,April-August,4.7,"Culture,Photography,Adventure,Cycling",EUR
+New Delhi,India,Culture,50,October-March,4.5,"Culture,Photography,Food,Adventure",INR
+Mumbai,India,Culture,60,November-February,4.5,"Culture,Food,Photography,Shopping",INR
+Singapore,Singapore,Culture,200,February-April,4.8,"Culture,Food,Shopping,Adventure",SGD
+Kuala Lumpur,Malaysia,Culture,70,May-July,4.6,"Culture,Food,Shopping,Adventure",MYR
+Istanbul,Turkey,Culture,90,April-June,4.7,"Culture,Photography,Food,History",TRY
+Cairo,Egypt,Culture,80,October-April,4.6,"Culture,Photography,History,Adventure",EGP
+Marrakech,Morocco,Culture,90,March-May,4.7,"Culture,Photography,Adventure,Food",MAD
+Lagos,Nigeria,Culture,70,November-March,4.4,"Culture,Food,Music,Adventure",NGN
+Accra,Ghana,Culture,60,November-March,4.4,"Culture,Food,Beach,Adventure",GHS
+Kigali,Rwanda,Culture,80,June-September,4.6,"Culture,Wildlife,Adventure,Photography",RWF
+Addis Ababa,Ethiopia,Culture,50,October-January,4.4,"Culture,Photography,History,Adventure",ETB
+Diani Beach,Kenya,Beach,90,January-March,4.7,"Swimming,Snorkeling,Beach,Culture",KES
+Amboseli,Kenya,Wildlife,130,June-October,4.8,"Safari,Wildlife,Photography",KES
+Mombasa,Kenya,Beach,80,All Year,4.5,"Beach,Swimming,Culture,Snorkeling",KES
+Lamu,Kenya,Culture,100,All Year,4.7,"Culture,Photography,Beach",KES
+Mount Kenya,Kenya,Adventure,90,January-February,4.6,"Hiking,Climbing,Photography",KES
+Lake Nakuru,Kenya,Wildlife,70,All Year,4.6,"Safari,Wildlife,Photography",KES
+Phuket,Thailand,Beach,100,November-April,4.7,"Beach,Swimming,Culture,Adventure",THB
+Cancun,Mexico,Beach,150,December-April,4.7,"Beach,Swimming,Culture,Adventure",MXN
+Rio de Janeiro,Brazil,Beach,130,December-March,4.7,"Beach,Culture,Music,Adventure",BRL
+Buenos Aires,Argentina,Culture,80,September-November,4.7,"Culture,Food,Music,Adventure",ARS
+Toronto,Canada,Culture,200,June-August,4.7,"Culture,Photography,Adventure,Food",CAD
+Vancouver,Canada,Adventure,190,June-August,4.8,"Adventure,Hiking,Photography,Culture",CAD
+Lisbon,Portugal,Culture,130,April-June,4.8,"Culture,Beach,Photography,Food",EUR
+Prague,Czech Republic,Culture,100,May-September,4.8,"Culture,Photography,Adventure,Food",CZK
+Vienna,Austria,Culture,150,April-October,4.8,"Culture,Photography,Music,Food",EUR
+Zurich,Switzerland,Adventure,300,June-September,4.7,"Adventure,Hiking,Culture,Photography",CHF
